@@ -354,12 +354,12 @@ img, video {
   justify-content: space-between;
 }
 
-.gap-2 {
-  gap: .5rem;
-}
-
 .gap-5 {
   gap: 1.25rem;
+}
+
+.gap-2 {
+  gap: .5rem;
 }
 
 .bg-white {
