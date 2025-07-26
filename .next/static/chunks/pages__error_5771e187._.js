@@ -6,11 +6,15 @@
   "static/chunks/node_modules_next_dist_shared_lib_3cbd5cc2._.js",
   "static/chunks/node_modules_next_dist_client_becf32a6._.js",
   "static/chunks/node_modules_next_dist_7c4b9b2a._.js",
-  "static/chunks/node_modules_next_error_8c8bf619.js",
+  "static/chunks/node_modules_next_38982fde._.js",
   "static/chunks/[next]_entry_page-loader_ts_8ccf5f86._.js",
   "static/chunks/node_modules_react-dom_82bb97c6._.js",
-  "static/chunks/node_modules_f2979c3a._.js",
-  "static/chunks/[root-of-the-server]__95ff7225._.js"
+  "static/chunks/f2e58_@sentry_core_build_esm_11a437ed._.js",
+  "static/chunks/f2e58_@sentry_browser_build_npm_esm_3f95b67c._.js",
+  "static/chunks/f2e58_@sentry-internal_browser-utils_build_esm_00cfb2f4._.js",
+  "static/chunks/f2e58_@sentry-internal_replay_build_npm_esm_index_1b0be4d4.js",
+  "static/chunks/node_modules_9a0d2d18._.js",
+  "static/chunks/[root-of-the-server]__60d29aaf._.js"
 ],
     source: "entry"
 });

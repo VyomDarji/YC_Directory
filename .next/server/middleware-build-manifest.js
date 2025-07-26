@@ -6,13 +6,17 @@ globalThis.__BUILD_MANIFEST = {
       "static/chunks/node_modules_next_dist_shared_lib_492fcef6._.js",
       "static/chunks/node_modules_next_dist_client_becf32a6._.js",
       "static/chunks/node_modules_next_dist_ad6392d3._.js",
-      "static/chunks/node_modules_next_app_95ea274f.js",
+      "static/chunks/node_modules_next_86bbca73._.js",
       "static/chunks/[next]_entry_page-loader_ts_f9f6e84e._.js",
       "static/chunks/node_modules_react-dom_82bb97c6._.js",
-      "static/chunks/node_modules_f2979c3a._.js",
-      "static/chunks/[root-of-the-server]__010dee56._.js",
+      "static/chunks/f2e58_@sentry_core_build_esm_11a437ed._.js",
+      "static/chunks/f2e58_@sentry_browser_build_npm_esm_3f95b67c._.js",
+      "static/chunks/f2e58_@sentry-internal_browser-utils_build_esm_00cfb2f4._.js",
+      "static/chunks/f2e58_@sentry-internal_replay_build_npm_esm_index_1b0be4d4.js",
+      "static/chunks/node_modules_9a0d2d18._.js",
+      "static/chunks/[root-of-the-server]__c88f288a._.js",
       "static/chunks/pages__app_5771e187._.js",
-      "static/chunks/pages__app_4b3c26ac._.js"
+      "static/chunks/pages__app_f7927765._.js"
     ],
     "/_error": [
       "static/chunks/node_modules_next_dist_compiled_next-devtools_index_82a36480.js",
@@ -20,13 +24,17 @@ globalThis.__BUILD_MANIFEST = {
       "static/chunks/node_modules_next_dist_shared_lib_3cbd5cc2._.js",
       "static/chunks/node_modules_next_dist_client_becf32a6._.js",
       "static/chunks/node_modules_next_dist_7c4b9b2a._.js",
-      "static/chunks/node_modules_next_error_8c8bf619.js",
+      "static/chunks/node_modules_next_38982fde._.js",
       "static/chunks/[next]_entry_page-loader_ts_8ccf5f86._.js",
       "static/chunks/node_modules_react-dom_82bb97c6._.js",
-      "static/chunks/node_modules_f2979c3a._.js",
-      "static/chunks/[root-of-the-server]__95ff7225._.js",
+      "static/chunks/f2e58_@sentry_core_build_esm_11a437ed._.js",
+      "static/chunks/f2e58_@sentry_browser_build_npm_esm_3f95b67c._.js",
+      "static/chunks/f2e58_@sentry-internal_browser-utils_build_esm_00cfb2f4._.js",
+      "static/chunks/f2e58_@sentry-internal_replay_build_npm_esm_index_1b0be4d4.js",
+      "static/chunks/node_modules_9a0d2d18._.js",
+      "static/chunks/[root-of-the-server]__60d29aaf._.js",
       "static/chunks/pages__error_5771e187._.js",
-      "static/chunks/pages__error_50fcf3db._.js"
+      "static/chunks/pages__error_7a4b719a._.js"
     ]
   },
   "devFiles": [],
@@ -36,15 +44,22 @@ globalThis.__BUILD_MANIFEST = {
   ],
   "lowPriorityFiles": [],
   "rootMainFiles": [
-    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_6aaa83c7._.js",
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_47843885._.js",
     "static/chunks/node_modules_next_dist_compiled_react-dom_1f56dc06._.js",
     "static/chunks/node_modules_next_dist_compiled_next-devtools_index_d575f738.js",
-    "static/chunks/node_modules_next_dist_compiled_0f1b9fd4._.js",
-    "static/chunks/node_modules_next_dist_client_20b209c9._.js",
-    "static/chunks/node_modules_next_dist_445d8acf._.js",
-    "static/chunks/node_modules_@swc_helpers_cjs_8e433861._.js",
+    "static/chunks/node_modules_next_dist_compiled_d6777ea1._.js",
+    "static/chunks/node_modules_next_dist_client_a096343d._.js",
+    "static/chunks/node_modules_next_dist_shared_lib_726b2f89._.js",
+    "static/chunks/node_modules_next_dist_0bf2288b._.js",
+    "static/chunks/node_modules_next_router_7ab374bf.js",
+    "static/chunks/f2e58_@sentry_core_build_esm_22942c2b._.js",
+    "static/chunks/f2e58_@sentry_browser_build_npm_esm_52f5e7e7._.js",
+    "static/chunks/f2e58_@sentry-internal_browser-utils_build_esm_51626020._.js",
+    "static/chunks/f2e58_@sentry-internal_replay_build_npm_esm_index_06c85e1c.js",
+    "static/chunks/node_modules_319e6920._.js",
+    "static/chunks/instrumentation-client_ts_befa20e0._.js",
     "static/chunks/_e69f0d32._.js",
-    "static/chunks/_01f48b92._.js"
+    "static/chunks/_1efd0e8d._.js"
   ],
   "ampFirstPages": []
 };

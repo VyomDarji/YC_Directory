@@ -1,7 +1,7 @@
 const CHUNK_PUBLIC_PATH = "server/pages/_error.js";
 const runtime = require("../chunks/ssr/[turbopack]_runtime.js");
-runtime.loadChunk("server/chunks/ssr/node_modules_bf671b14._.js");
-runtime.loadChunk("server/chunks/ssr/[root-of-the-server]__c75c51b7._.js");
+runtime.loadChunk("server/chunks/ssr/node_modules_b6db3591._.js");
+runtime.loadChunk("server/chunks/ssr/[root-of-the-server]__9efe335f._.js");
 runtime.loadChunk("server/chunks/ssr/node_modules_next_9babd674._.js");
 runtime.loadChunk("server/chunks/ssr/node_modules_451cd2ad._.js");
 runtime.loadChunk("server/chunks/ssr/[externals]_next_dist_shared_lib_no-fallback-error_external_d7a8835d.js");
