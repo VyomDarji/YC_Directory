@@ -38,6 +38,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$worksans_9107de03$2e$
 ;
 ;
 ;
+;
 const metadata = {
     title: "YC Directory",
     description: "Pitch, Vote and Grow"
