@@ -6,10 +6,6 @@
           "moduleId": "[project]/.next-internal/server/app/(root)/page/actions.js { ACTIONS_MODULE0 => \"[project]/components/Navbar.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/next-sanity/node_modules/@sanity/next-loader/dist/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
           "async": false
         },
-        "app/(root)/startup/create/page": {
-          "moduleId": "[project]/.next-internal/server/app/(root)/startup/create/page/actions.js { ACTIONS_MODULE0 => \"[project]/components/Navbar.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
-          "async": false
-        },
         "app/(root)/user/[id]/page": {
           "moduleId": "[project]/.next-internal/server/app/(root)/user/[id]/page/actions.js { ACTIONS_MODULE0 => \"[project]/components/Navbar.tsx [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
           "async": false
@@ -17,7 +13,6 @@
       },
       "layer": {
         "app/(root)/page": "rsc",
-        "app/(root)/startup/create/page": "rsc",
         "app/(root)/user/[id]/page": "rsc"
       }
     },
@@ -27,10 +22,6 @@
           "moduleId": "[project]/.next-internal/server/app/(root)/page/actions.js { ACTIONS_MODULE0 => \"[project]/components/Navbar.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/next-sanity/node_modules/@sanity/next-loader/dist/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
           "async": false
         },
-        "app/(root)/startup/create/page": {
-          "moduleId": "[project]/.next-internal/server/app/(root)/startup/create/page/actions.js { ACTIONS_MODULE0 => \"[project]/components/Navbar.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
-          "async": false
-        },
         "app/(root)/user/[id]/page": {
           "moduleId": "[project]/.next-internal/server/app/(root)/user/[id]/page/actions.js { ACTIONS_MODULE0 => \"[project]/components/Navbar.tsx [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
           "async": false
@@ -38,7 +29,6 @@
       },
       "layer": {
         "app/(root)/page": "rsc",
-        "app/(root)/startup/create/page": "rsc",
         "app/(root)/user/[id]/page": "rsc"
       }
     },
@@ -62,17 +52,6 @@
       },
       "layer": {
         "app/(root)/page": "action-browser"
-      }
-    },
-    "7f68468331ac912f14299060511076bd72f455d9da": {
-      "workers": {
-        "app/(root)/startup/create/page": {
-          "moduleId": "[project]/.next-internal/server/app/(root)/startup/create/page/actions.js { ACTIONS_MODULE0 => \"[project]/components/Navbar.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
-          "async": false
-        }
-      },
-      "layer": {
-        "app/(root)/startup/create/page": "action-browser"
       }
     }
   },

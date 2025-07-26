@@ -1,9 +1,5 @@
 {
   "/(root)/page": "app/(root)/page.js",
-  "/(root)/startup/create/page": "app/(root)/startup/create/page.js",
   "/(root)/user/[id]/page": "app/(root)/user/[id]/page.js",
-  "/_not-found/page": "app/_not-found/page.js",
-  "/api/sentry-example-api/route": "app/api/sentry-example-api/route.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/sentry-example-page/page": "app/sentry-example-page/page.js"
+  "/favicon.ico/route": "app/favicon.ico/route.js"
 }
