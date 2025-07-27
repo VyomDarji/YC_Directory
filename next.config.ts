@@ -4,14 +4,14 @@ const nextConfig = {
     ignoreBuildErrors: true, // ⚠️ use only if needed, avoid in production
   },
   eslint: {
-    ignoreDuringBuilds: true, // ✅ correct key is "ignoreDuringBuilds"
+    ignoreDuringBuilds: true,
   },
   images: {
-    domains: ['cdn.sanity.io'], // ✅ allows loading Sanity-hosted images
+    domains: ['cdn.sanity.io'],
   },
   reactStrictMode: true,
   experimental: {
-    serverActions: true, // ✅ experimental flag should be a boolean or an object depending on version
+    serverActions: {}, // ✅ FIXED: was "true"
   },
 };
 
